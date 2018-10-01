@@ -1,0 +1,7 @@
+<div *ngIf="user">
+  <h3>{{loggedInUser}}</h3>
+  <div>
+      <button (click)="logout()">Logout</button>
+      <button (click)="getUpdatedUser()">Get Updated User</button>
+  </div>
+</div>
