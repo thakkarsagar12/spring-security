@@ -21,11 +21,12 @@
     "@angular/platform-browser": "^6.1.9",
     "@angular/platform-browser-dynamic": "^6.1.9",
     "@angular/router": "^6.1.9",
-    "core-js": "^2.4.1",
-    "rxjs": "^6.3.3",
-    "zone.js": "^0.8.14",
     "angular2-jwt": "^0.2.3",
-    "rxjs-compat": "^6.0.0-rc.0"
+    "core-js": "^2.4.1",
+    "https-proxy-agent": "^2.2.1",
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.0.0-rc.0",
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",
