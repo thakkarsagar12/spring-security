@@ -6,7 +6,7 @@
  
 1. Clone spring-security repository into your local machine
 
-        git clone https://github.com/grover96/spring-security.git
+        git clone https://github.com/binitdatta/spring-security.git
        
 2. In terminal, point to local repository
 
